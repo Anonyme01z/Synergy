@@ -1,0 +1,12 @@
+{
+  "stagingUrl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "credentials": {
+    "Username": "admin",
+    "Password": "admin123",
+    "DashboardURL": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index",
+    "AdminURL": "https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers",
+    "Invalidusername": "ada",
+    "InvalidPassword": "1234",
+    "UN": "rahul"
+  }
+}
